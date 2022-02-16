@@ -1,1 +1,0 @@
-{"version":3,"file":"component---src-pages-data-jsx-77e5d6fed8433224a60f.js","mappings":"kKAMA,UAJa,WACX,OAAO","sources":["webpack://gatsby-starter-hello-world/./src/pages/data.jsx"],"sourcesContent":["import React from 'react';\r\n\r\nconst Data = () => {\r\n  return <div>Data example page</div>;\r\n};\r\n\r\nexport default Data;\r\n"],"names":[],"sourceRoot":""}
